@@ -11,7 +11,7 @@ A custom ASP.NET Core middleware that logs every HTTP request and response detai
   - Request headers (Host, User-Agent, Content-Type, Accept)
 
 - ✅ Logs each HTTP response:
-  - Status code (200/404/301 etc.)
+  - Status code
   - Response headers (Date, Server, Content-Type, Cache-Control)
 
 - ✅ Stores logs in `Logs/RequestResponseLog.txt`
@@ -30,7 +30,6 @@ Screenshot of `Logs/RequestResponseLog.txt` showing a clean `200 OK` log entry c
 <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/d2dac821-ae62-4fbe-8e83-dc60db2e2567" />
 
 
----
 
 ## 🚀 Run Locally
 
@@ -38,4 +37,17 @@ Screenshot of `Logs/RequestResponseLog.txt` showing a clean `200 OK` log entry c
    ```bash
    git clone https://github.com/<your-username>/RequestResponseLogger.git
    cd RequestResponseLogger
+   Run the project:
+   dotnet run
+   Open in browser (Swagger UI):
+   http://localhost:5234/swagger/index.html
+
+### 8. Author
+```markdown
+## 🧑‍💻 Author
+- Name: Numa Rahim  
+- GitHub: https://github.com/NumaAli
+- Project Repo: https://github.com/NumaAli/AspNetCoreRequestLogger 
+
+
 

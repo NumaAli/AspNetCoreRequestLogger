@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gwz6jqq+8ry3B4jnuvuCiAq5d8S1p8WTXzPXQGdhDxVbuifCi2YUAizE+VrJAdIXUJ/A32ZoyW1uVPWZWOzzOg==",
+  "success": true,
+  "projectFilePath": "/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/Middleware Assignment.csproj",
+  "expectedPackageFiles": [
+    "/Users/basheerkhansallar/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/basheerkhansallar/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/basheerkhansallar/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/basheerkhansallar/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/basheerkhansallar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/basheerkhansallar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/basheerkhansallar/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/basheerkhansallar/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/basheerkhansallar/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

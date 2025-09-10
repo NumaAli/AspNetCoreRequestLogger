@@ -1,0 +1,32 @@
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/bin/Debug/net6.0/appsettings.Development.json
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/bin/Debug/net6.0/appsettings.json
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/bin/Debug/net6.0/Middleware Assignment
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/bin/Debug/net6.0/Middleware Assignment.deps.json
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/bin/Debug/net6.0/Middleware Assignment.runtimeconfig.json
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/bin/Debug/net6.0/Middleware Assignment.dll
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/bin/Debug/net6.0/Middleware Assignment.pdb
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/Middleware Assignment.csproj.AssemblyReference.cache
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/Middleware Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/Middleware Assignment.AssemblyInfoInputs.cache
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/Middleware Assignment.AssemblyInfo.cs
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/Middleware Assignment.csproj.CoreCompileInputs.cache
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/Middleware Assignment.MvcApplicationPartsAssemblyInfo.cs
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/Middleware Assignment.MvcApplicationPartsAssemblyInfo.cache
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/staticwebassets/msbuild.Middleware Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/staticwebassets/msbuild.build.Middleware Assignment.props
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Middleware Assignment.props
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Middleware Assignment.props
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/staticwebassets.build.json
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/staticwebassets.development.json
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/scopedcss/bundle/Middleware Assignment.styles.css
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/Middleware Assignment.csproj.CopyComplete
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/Middleware Assignment.dll
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/refint/Middleware Assignment.dll
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/Middleware Assignment.pdb
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/Middleware Assignment.genruntimeconfig.cache
+/Users/basheerkhansallar/Desktop/Asp project/Middleware Assignment/Middleware Assignment/obj/Debug/net6.0/ref/Middleware Assignment.dll

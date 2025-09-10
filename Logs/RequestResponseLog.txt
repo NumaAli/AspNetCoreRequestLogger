@@ -1,0 +1,82 @@
+Timestamp: 2025-09-10 05:13:10
+Request Method: GET
+Request Path: /swagger
+Request Header Keys: [Host, User-Agent, Content-Type, Accept]
+Request Header Values: [Host: localhost:5234, User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15, Content-Type: <none>, Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8]
+Response Status Code: 301
+Response Header Keys: [Date, Server, Content-Type, Cache-Control]
+Response Header Values: [Date: <none>, Server: <none>, Content-Type: <none>, Cache-Control: <none>]
+------------------------------------------------------------
+Timestamp: 2025-09-10 05:13:11
+Request Method: GET
+Request Path: /swagger/index.html
+Request Header Keys: [Host, User-Agent, Content-Type, Accept]
+Request Header Values: [Host: localhost:5234, User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15, Content-Type: <none>, Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8]
+Response Status Code: 200
+Response Header Keys: [Date, Server, Content-Type, Cache-Control]
+Response Header Values: [Date: Wed, 10 Sep 2025 00:13:10 GMT, Server: Kestrel, Content-Type: text/html;charset=utf-8, Cache-Control: <none>]
+------------------------------------------------------------
+Timestamp: 2025-09-10 05:13:11
+Request Method: GET
+Request Path: /swagger/swagger-ui.css
+Request Header Keys: [Host, User-Agent, Content-Type, Accept]
+Request Header Values: [Host: localhost:5234, User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15, Content-Type: <none>, Accept: text/css,*/*;q=0.1]
+Timestamp: 2025-09-10 05:13:11
+Request Method: GET
+Request Path: /swagger/swagger-ui-bundle.js
+Request Header Keys: [Host, User-Agent, Content-Type, Accept]
+Request Header Values: [Host: localhost:5234, User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15, Content-Type: <none>, Accept: */*]
+Timestamp: 2025-09-10 05:13:11
+Request Method: GET
+Request Path: /swagger/swagger-ui-standalone-preset.js
+Request Header Keys: [Host, User-Agent, Content-Type, Accept]
+Request Header Values: [Host: localhost:5234, User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15, Content-Type: <none>, Accept: */*]
+Response Status Code: 200
+Response Header Keys: [Date, Server, Content-Type, Cache-Control]
+Response Header Values: [Date: Wed, 10 Sep 2025 00:13:10 GMT, Server: Kestrel, Content-Type: application/javascript, Cache-Control: <none>]
+------------------------------------------------------------
+Timestamp: 2025-09-10 05:13:11
+Request Method: GET
+Request Path: /swagger/v1/swagger.json
+Request Header Keys: [Host, User-Agent, Content-Type, Accept]
+Request Header Values: [Host: localhost:5234, User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15, Content-Type: <none>, Accept: application/json,*/*]
+Timestamp: 2025-09-10 05:13:11
+Request Method: GET
+Request Path: /swagger/favicon-32x32.png
+Request Header Keys: [Host, User-Agent, Content-Type, Accept]
+Request Header Values: [Host: localhost:5234, User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15, Content-Type: <none>, Accept: */*]
+Response Status Code: 200
+Response Header Keys: [Date, Server, Content-Type, Cache-Control]
+Response Header Values: [Date: Wed, 10 Sep 2025 00:13:10 GMT, Server: Kestrel, Content-Type: image/png, Cache-Control: <none>]
+------------------------------------------------------------
+Timestamp: 2025-09-10 05:13:11
+Request Method: GET
+Request Path: /swagger/favicon-16x16.png
+Request Header Keys: [Host, User-Agent, Content-Type, Accept]
+Request Header Values: [Host: localhost:5234, User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15, Content-Type: <none>, Accept: */*]
+Response Status Code: 200
+Response Header Keys: [Date, Server, Content-Type, Cache-Control]
+Response Header Values: [Date: Wed, 10 Sep 2025 00:13:10 GMT, Server: Kestrel, Content-Type: image/png, Cache-Control: <none>]
+------------------------------------------------------------
+Response Status Code: 200
+Response Header Keys: [Date, Server, Content-Type, Cache-Control]
+Response Header Values: [Date: Wed, 10 Sep 2025 00:13:10 GMT, Server: Kestrel, Content-Type: application/json;charset=utf-8, Cache-Control: <none>]
+------------------------------------------------------------
+Timestamp: 2025-09-10 05:19:00
+Request Method: GET
+Request Path: /WeatherForecast
+Request Header Keys: [Host, User-Agent, Content-Type, Accept]
+Request Header Values: [Host: localhost:5234, User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15, Content-Type: <none>, Accept: text/plain]
+Response Status Code: 200
+Response Header Keys: [Date, Server, Content-Type, Cache-Control]
+Response Header Values: [Date: Wed, 10 Sep 2025 00:19:00 GMT, Server: Kestrel, Content-Type: application/json; charset=utf-8, Cache-Control: <none>]
+------------------------------------------------------------
+Timestamp: 2025-09-10 05:19:22
+Request Method: GET
+Request Path: /WeatherForecast
+Request Header Keys: [Host, User-Agent, Content-Type, Accept]
+Request Header Values: [Host: localhost:5234, User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15, Content-Type: <none>, Accept: text/plain]
+Response Status Code: 200
+Response Header Keys: [Date, Server, Content-Type, Cache-Control]
+Response Header Values: [Date: Wed, 10 Sep 2025 00:19:22 GMT, Server: Kestrel, Content-Type: application/json; charset=utf-8, Cache-Control: <none>]
+------------------------------------------------------------

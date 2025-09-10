@@ -35,12 +35,11 @@ Screenshot of `Logs/RequestResponseLog.txt` showing a clean `200 OK` log entry c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/RequestResponseLogger.git
-   cd RequestResponseLogger
+   git clone https://github.com/NumaAli/AspNetCoreRequestLogger.git
+   cd AspNetCoreRequestLogger
    Run the project:
    dotnet run
-   Open in browser (Swagger UI):
-   http://localhost:5234/swagger/index.html
+   
 
 ### Author
 ```markdown

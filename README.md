@@ -42,7 +42,7 @@ Screenshot of `Logs/RequestResponseLog.txt` showing a clean `200 OK` log entry c
    Open in browser (Swagger UI):
    http://localhost:5234/swagger/index.html
 
-### 8. Author
+### Author
 ```markdown
 ## 🧑‍💻 Author
 - Name: Numa Rahim  
